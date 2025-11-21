@@ -1,0 +1,229 @@
+{
+    "next": "http://api.example.org/accounts/?cursor=cD00ODY%3D\"",
+    "previous": "http://api.example.org/accounts/?cursor=cj0xJnA9NDg3",
+    "results": [
+        {
+            "callId": "3c90c3cc-0d44-4b50-8888-8dd25736052a",
+            "clientVersion": "<string>",
+            "created": "2023-11-07T05:31:56Z",
+            "joined": "2023-11-07T05:31:56Z",
+            "ended": "2023-11-07T05:31:56Z",
+            "endReason": "unjoined",
+            "billedDuration": "<string>",
+            "billingStatus": "BILLING_STATUS_PENDING",
+            "firstSpeaker": "FIRST_SPEAKER_AGENT",
+            "firstSpeakerSettings": {
+                "user": {
+                    "fallback": {
+                        "delay": "<string>",
+                        "text": "<string>",
+                        "prompt": "<string>"
+                    }
+                },
+                "agent": {
+                    "uninterruptible": true,
+                    "text": "<string>",
+                    "prompt": "<string>",
+                    "delay": "<string>"
+                }
+            },
+            "inactivityMessages": [
+                {
+                    "duration": "<string>",
+                    "message": "<string>",
+                    "endBehavior": "END_BEHAVIOR_UNSPECIFIED"
+                }
+            ],
+            "initialOutputMedium": "MESSAGE_MEDIUM_VOICE",
+            "joinTimeout": "30s",
+            "joinUrl": "<string>",
+            "languageHint": "<string>",
+            "maxDuration": "3600s",
+            "medium": {
+                "webRtc": {
+                    "dataMessages": {
+                        "pong": true,
+                        "state": true,
+                        "transcript": true,
+                        "clientToolInvocation": true,
+                        "dataConnectionToolInvocation": true,
+                        "playbackClearBuffer": true,
+                        "callStarted": true,
+                        "debug": true,
+                        "callEvent": true,
+                        "toolUsed": true
+                    }
+                },
+                "twilio": {
+                    "outgoing": {
+                        "to": "<string>",
+                        "from": "<string>",
+                        "additionalParams": {}
+                    }
+                },
+                "serverWebSocket": {
+                    "inputSampleRate": 123,
+                    "outputSampleRate": 123,
+                    "clientBufferSizeMs": 123,
+                    "dataMessages": {
+                        "pong": true,
+                        "state": true,
+                        "transcript": true,
+                        "clientToolInvocation": true,
+                        "dataConnectionToolInvocation": true,
+                        "playbackClearBuffer": true,
+                        "callStarted": true,
+                        "debug": true,
+                        "callEvent": true,
+                        "toolUsed": true
+                    }
+                },
+                "telnyx": {
+                    "outgoing": {
+                        "to": "<string>",
+                        "from": "<string>",
+                        "additionalParams": {}
+                    }
+                },
+                "plivo": {
+                    "outgoing": {
+                        "to": "<string>",
+                        "from": "<string>",
+                        "additionalParams": {}
+                    }
+                },
+                "exotel": {},
+                "sip": {
+                    "incoming": {},
+                    "outgoing": {
+                        "to": "<string>",
+                        "from": "<string>",
+                        "username": "<string>",
+                        "password": "<string>"
+                    }
+                }
+            },
+            "model": "fixie-ai/ultravox",
+            "recordingEnabled": false,
+            "systemPrompt": "<string>",
+            "temperature": 0,
+            "timeExceededMessage": "<string>",
+            "voice": "<string>",
+            "externalVoice": {
+                "elevenLabs": {
+                    "voiceId": "<string>",
+                    "model": "<string>",
+                    "speed": 123,
+                    "useSpeakerBoost": true,
+                    "style": 123,
+                    "similarityBoost": 123,
+                    "stability": 123,
+                    "pronunciationDictionaries": [
+                        {
+                            "dictionaryId": "<string>",
+                            "versionId": "<string>"
+                        }
+                    ],
+                    "optimizeStreamingLatency": 123,
+                    "maxSampleRate": 123
+                },
+                "cartesia": {
+                    "voiceId": "<string>",
+                    "model": "<string>",
+                    "speed": 123,
+                    "emotion": "<string>",
+                    "emotions": [
+                        "<string>"
+                    ],
+                    "generationConfig": {
+                        "volume": 123,
+                        "speed": 123,
+                        "emotion": "<string>"
+                    }
+                },
+                "lmnt": {
+                    "voiceId": "<string>",
+                    "model": "<string>",
+                    "speed": 123,
+                    "conversational": true
+                },
+                "google": {
+                    "voiceId": "<string>",
+                    "speakingRate": 123
+                },
+                "generic": {
+                    "url": "<string>",
+                    "headers": {},
+                    "body": {},
+                    "responseSampleRate": 123,
+                    "responseWordsPerMinute": 123,
+                    "responseMimeType": "<string>",
+                    "jsonAudioFieldPath": "<string>",
+                    "jsonByteEncoding": "JSON_BYTE_ENCODING_UNSPECIFIED"
+                }
+            },
+            "transcriptOptional": true,
+            "vadSettings": {
+                "turnEndpointDelay": "<string>",
+                "minimumTurnDuration": "<string>",
+                "minimumInterruptionDuration": "<string>",
+                "frameActivationThreshold": 123
+            },
+            "shortSummary": "<string>",
+            "summary": "<string>",
+            "agent": {
+                "agentId": "3c90c3cc-0d44-4b50-8888-8dd25736052a",
+                "name": "<string>"
+            },
+            "agentId": "<string>",
+            "experimentalSettings": "<any>",
+            "metadata": {},
+            "initialState": {},
+            "requestContext": "<any>",
+            "dataConnectionConfig": {
+                "websocketUrl": "<string>",
+                "audioConfig": {
+                    "sampleRate": 123,
+                    "channelMode": "CHANNEL_MODE_UNSPECIFIED"
+                },
+                "dataMessages": {
+                    "pong": true,
+                    "state": true,
+                    "transcript": true,
+                    "clientToolInvocation": true,
+                    "dataConnectionToolInvocation": true,
+                    "playbackClearBuffer": true,
+                    "callStarted": true,
+                    "debug": true,
+                    "callEvent": true,
+                    "toolUsed": true
+                }
+            },
+            "callbacks": {
+                "joined": {
+                    "url": "<string>",
+                    "secrets": [
+                        "<string>"
+                    ]
+                },
+                "ended": {
+                    "url": "<string>",
+                    "secrets": [
+                        "<string>"
+                    ]
+                },
+                "billed": {
+                    "url": "<string>",
+                    "secrets": [
+                        "<string>"
+                    ]
+                }
+            },
+            "sipDetails": {
+                "billedDuration": "<string>",
+                "terminationReason": "SIP_TERMINATION_NORMAL"
+            }
+        }
+    ],
+    "total": 123
+}
