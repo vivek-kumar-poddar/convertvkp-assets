@@ -1,0 +1,312 @@
+{
+  "title": "India Electricity Rates 2025 - State-wise Tariff Data",
+  "last_updated": "December 2025",
+  "currency": "Indian Rupees (₹)",
+  "unit": "per kWh (kilowatt-hour)",
+  "note": "Rates are approximate ranges based on consumption slabs. For exact rates, consult state electricity regulatory commissions.",
+  "data": {
+    "Andhra Pradesh": {
+      "Domestic (Rural)": "₹2.90-6.50/unit",
+      "Domestic (Urban)": "₹2.90-6.50/unit",
+      "Commercial (Rural)": "₹6.50-8.50/unit",
+      "Commercial (Urban)": "₹6.50-8.50/unit",
+      "Agriculture (IAS)": "₹1.50-3.50/unit",
+      "Industrial (LTIS)": "₹5.90-9.00/kVAh"
+    },
+    "Arunachal Pradesh": {
+      "Domestic (Rural)": "₹3.35-4.30/unit",
+      "Domestic (Urban)": "₹3.35-4.30/unit",
+      "Commercial (Rural)": "₹4.85-5.85/unit",
+      "Commercial (Urban)": "₹4.85-5.85/unit",
+      "Agriculture (IAS)": "₹2.65/unit",
+      "Industrial (LTIS)": "₹3.35-4.30/unit"
+    },
+    "Assam": {
+      "Domestic (Rural)": "₹3.60-6.20/unit",
+      "Domestic (Urban)": "₹3.60-6.20/unit",
+      "Commercial (Rural)": "₹5.50-7.50/unit",
+      "Commercial (Urban)": "₹5.50-7.50/unit",
+      "Agriculture (IAS)": "₹3.00-4.50/unit",
+      "Industrial (LTIS)": "₹6.09-6.59/unit"
+    },
+    "Bihar": {
+      "Domestic (Rural)": "₹3.00-5.50/unit",
+      "Domestic (Urban)": "₹3.00-5.50/unit",
+      "Commercial (Rural)": "₹7.50-11.50/unit",
+      "Commercial (Urban)": "₹7.50-11.50/unit",
+      "Agriculture (IAS)": "free-1.50/unit",
+      "Industrial (LTIS)": "₹5.90-9.00/kVAh"
+    },
+    "Chhattisgarh": {
+      "Domestic (Rural)": "₹1.85-7.90/unit",
+      "Domestic (Urban)": "₹1.85-7.90/unit",
+      "Commercial (Rural)": "₹4.50-8.50/unit",
+      "Commercial (Urban)": "₹4.50-8.50/unit",
+      "Agriculture (IAS)": "₹0.47-2.72/unit",
+      "Industrial (LTIS)": "₹5.00-8.00/unit"
+    },
+    "Delhi": {
+      "Domestic (Rural)": "₹3.00-8.00/unit",
+      "Domestic (Urban)": "₹3.00-8.00/unit",
+      "Commercial (Rural)": "₹6.50-8.50/unit",
+      "Commercial (Urban)": "₹6.50-8.50/unit",
+      "Agriculture (IAS)": "₹1.50/unit",
+      "Industrial (LTIS)": "₹7.75/kVAh"
+    },
+    "Goa": {
+      "Domestic (Rural)": "₹1.96-6.15/unit",
+      "Domestic (Urban)": "₹1.96-6.15/unit",
+      "Commercial (Rural)": "₹4.00-8.50/unit",
+      "Commercial (Urban)": "₹4.00-8.50/unit",
+      "Agriculture (IAS)": "₹1.80-4.50/unit",
+      "Industrial (LTIS)": "₹5.50-7.50/unit"
+    },
+    "Gujarat": {
+      "Domestic (Rural)": "₹3.05-5.20/unit",
+      "Domestic (Urban)": "₹3.05-5.20/unit",
+      "Commercial (Rural)": "₹5.50-7.50/unit",
+      "Commercial (Urban)": "₹5.50-7.50/unit",
+      "Agriculture (IAS)": "₹0.60/unit (highly subsidized)",
+      "Industrial (LTIS)": "₹6.00-7.50/unit"
+    },
+    "Haryana": {
+      "Domestic (Rural)": "₹2.20-7.10/unit",
+      "Domestic (Urban)": "₹2.20-7.10/unit",
+      "Commercial (Rural)": "₹5.50-7.50/unit",
+      "Commercial (Urban)": "₹5.50-7.50/unit",
+      "Agriculture (IAS)": "₹3.00-5.00/unit",
+      "Industrial (LTIS)": "₹6.00-8.00/unit"
+    },
+    "Himachal Pradesh": {
+      "Domestic (Rural)": "₹4.72-5.90/unit",
+      "Domestic (Urban)": "₹4.72-5.90/unit",
+      "Commercial (Rural)": "₹6.38-6.40/unit",
+      "Commercial (Urban)": "₹6.38-6.40/unit",
+      "Agriculture (IAS)": "₹5.04/unit",
+      "Industrial (LTIS)": "₹5.46-5.72/unit"
+    },
+    "Jharkhand": {
+      "Domestic (Rural)": "₹7.00-8.60/unit",
+      "Domestic (Urban)": "₹7.00-8.60/unit",
+      "Commercial (Rural)": "₹7.25-9.00/unit",
+      "Commercial (Urban)": "₹7.25-9.00/unit",
+      "Agriculture (IAS)": "₹5.00-8.00/unit",
+      "Industrial (LTIS)": "₹5.90-9.00/kVAh"
+    },
+    "Karnataka": {
+      "Domestic (Rural)": "₹3.75-7.80/unit",
+      "Domestic (Urban)": "₹3.75-7.80/unit",
+      "Commercial (Rural)": "₹5.60-8.95/unit",
+      "Commercial (Urban)": "₹5.60-8.95/unit",
+      "Agriculture (IAS)": "₹3.00-5.50/unit",
+      "Industrial (LTIS)": "₹6.75-7.80/unit"
+    },
+    "Kerala": {
+      "Domestic (Rural)": "₹3.30-7.10/unit",
+      "Domestic (Urban)": "₹3.30-7.10/unit",
+      "Commercial (Rural)": "₹6.00-8.50/unit",
+      "Commercial (Urban)": "₹6.00-8.50/unit",
+      "Agriculture (IAS)": "₹5.05/unit + 5 paise hike",
+      "Industrial (LTIS)": "₹6.50-7.90/unit"
+    },
+    "Madhya Pradesh": {
+      "Domestic (Rural)": "₹4.00-6.00/unit",
+      "Domestic (Urban)": "₹4.00-6.00/unit",
+      "Commercial (Rural)": "₹5.50-8.00/unit",
+      "Commercial (Urban)": "₹5.50-8.00/unit",
+      "Agriculture (IAS)": "₹0.47-2.72/unit (subsidized)",
+      "Industrial (LTIS)": "₹5.50-8.00/unit"
+    },
+    "Maharashtra": {
+      "Domestic (Rural)": "₹4.43-14.33/unit",
+      "Domestic (Urban)": "₹4.43-14.33/unit",
+      "Commercial (Rural)": "₹8.00-16.97/unit",
+      "Commercial (Urban)": "₹8.00-16.97/unit",
+      "Agriculture (IAS)": "₹1.00-2.28/unit",
+      "Industrial (LTIS)": "₹7.50-12.00/unit"
+    },
+    "Manipur": {
+      "Domestic (Rural)": "not-available",
+      "Domestic (Urban)": "not-available",
+      "Commercial (Rural)": "not-available",
+      "Commercial (Urban)": "not-available",
+      "Agriculture (IAS)": "not-available",
+      "Industrial (LTIS)": "not-available"
+    },
+    "Meghalaya": {
+      "Domestic (Rural)": "not-available",
+      "Domestic (Urban)": "not-available",
+      "Commercial (Rural)": "not-available",
+      "Commercial (Urban)": "not-available",
+      "Agriculture (IAS)": "not-available",
+      "Industrial (LTIS)": "not-available"
+    },
+    "Mizoram": {
+      "Domestic (Rural)": "₹5.90-7.80/unit",
+      "Domestic (Urban)": "₹6.10/unit",
+      "Commercial (Rural)": "not-available",
+      "Commercial (Urban)": "not-available",
+      "Agriculture (IAS)": "not-available",
+      "Industrial (LTIS)": "₹7.15-8.25/unit"
+    },
+    "Nagaland": {
+      "Domestic (Rural)": "₹5.90-7.80/unit",
+      "Domestic (Urban)": "₹5.90-7.80/unit",
+      "Commercial (Rural)": "not-available",
+      "Commercial (Urban)": "not-available",
+      "Agriculture (IAS)": "not-available",
+      "Industrial (LTIS)": "₹7.15-8.25/unit"
+    },
+    "Odisha": {
+      "Domestic (Rural)": "₹4.59-7.01/unit",
+      "Domestic (Urban)": "₹4.59-7.01/unit",
+      "Commercial (Rural)": "₹6.20/unit",
+      "Commercial (Urban)": "₹6.20/unit",
+      "Agriculture (IAS)": "₹1.40-1.50/unit (subsidized)",
+      "Industrial (LTIS)": "₹5.00-6.20/unit"
+    },
+    "Punjab": {
+      "Domestic (Rural)": "₹3.49-7.30/unit",
+      "Domestic (Urban)": "₹3.49-7.30/unit",
+      "Commercial (Rural)": "₹7.24/unit",
+      "Commercial (Urban)": "₹7.24/unit",
+      "Agriculture (IAS)": "₹3.00-5.50/unit",
+      "Industrial (LTIS)": "₹5.25-6.36/unit"
+    },
+    "Rajasthan": {
+      "Domestic (Rural)": "₹4.00-7.95/unit",
+      "Domestic (Urban)": "₹4.75-7.95/unit",
+      "Commercial (Rural)": "₹7.00-8.00/unit",
+      "Commercial (Urban)": "₹7.00-8.00/unit",
+      "Agriculture (IAS)": "metered ₹5.90-6.20/unit (reduced)",
+      "Industrial (LTIS)": "₹6.00-6.50/unit"
+    },
+    "Sikkim": {
+      "Domestic (Rural)": "₹1.60-7.40/unit",
+      "Domestic (Urban)": "₹1.60-7.40/unit",
+      "Commercial (Rural)": "₹6.00-7.90/unit",
+      "Commercial (Urban)": "₹6.00-7.90/unit",
+      "Agriculture (IAS)": "₹4.60-6.80/unit",
+      "Industrial (LTIS)": "₹6.50-7.90/unit"
+    },
+    "Tamil Nadu": {
+      "Domestic (Rural)": "₹2.25-11.05/unit (50 units free)",
+      "Domestic (Urban)": "₹2.25-11.05/unit (50 units free)",
+      "Commercial (Rural)": "₹8.25-9.10/unit",
+      "Commercial (Urban)": "₹8.25-9.10/unit",
+      "Agriculture (IAS)": "free (state absorption)",
+      "Industrial (LTIS)": "₹8.00/unit"
+    },
+    "Telangana": {
+      "Domestic (Rural)": "₹1.45-10.00/unit",
+      "Domestic (Urban)": "₹1.45-10.00/unit",
+      "Commercial (Rural)": "₹7.50-9.50/unit",
+      "Commercial (Urban)": "₹7.50-9.50/unit",
+      "Agriculture (IAS)": "₹5.80/unit",
+      "Industrial (LTIS)": "₹7.00-11.00/unit"
+    },
+    "Tripura": {
+      "Domestic (Rural)": "₹3.79-8.32/unit",
+      "Domestic (Urban)": "₹3.79-8.32/unit",
+      "Commercial (Rural)": "₹5.92-7.99/unit",
+      "Commercial (Urban)": "₹5.92-7.99/unit",
+      "Agriculture (IAS)": "₹5.50-7.50/unit",
+      "Industrial (LTIS)": "₹6.50-8.00/unit"
+    },
+    "Uttar Pradesh": {
+      "Domestic (Rural)": "₹5.50-7.00/unit",
+      "Domestic (Urban)": "₹5.50-7.00/unit",
+      "Commercial (Rural)": "₹7.00-10.00/unit",
+      "Commercial (Urban)": "₹7.00-10.00/unit",
+      "Agriculture (IAS)": "₹3.00-5.00/unit",
+      "Industrial (LTIS)": "₹7.00-9.50/unit"
+    },
+    "Uttarakhand": {
+      "Domestic (Rural)": "₹3.65-7.80/unit",
+      "Domestic (Urban)": "₹3.65-7.80/unit",
+      "Commercial (Rural)": "₹5.75-7.80/unit",
+      "Commercial (Urban)": "₹5.75-7.80/unit",
+      "Agriculture (IAS)": "₹3.50-5.50/unit",
+      "Industrial (LTIS)": "₹6.00-7.80/unit"
+    },
+    "West Bengal": {
+      "Domestic (Rural)": "₹4.10-6.81/unit",
+      "Domestic (Urban)": "₹4.15-6.89/unit",
+      "Commercial (Rural)": "₹4.31-5.05/unit",
+      "Commercial (Urban)": "₹4.31-5.05/unit",
+      "Agriculture (IAS)": "₹3.50-5.50/unit",
+      "Industrial (LTIS)": "₹6.50-7.50/unit"
+    },
+    "Andaman & Nicobar Islands": {
+      "Domestic (Rural)": "₹2.75-10.25/unit",
+      "Domestic (Urban)": "₹2.75-10.25/unit",
+      "Commercial (Rural)": "₹5.00-12.00/unit",
+      "Commercial (Urban)": "₹5.00-12.00/unit",
+      "Agriculture (IAS)": "₹3.00-4.50/unit",
+      "Industrial (LTIS)": "₹6.00-8.50/unit"
+    },
+    "Daman & Diu": {
+      "Domestic (Rural)": "₹1.60-3.40/unit",
+      "Domestic (Urban)": "₹1.60-3.40/unit",
+      "Commercial (Rural)": "₹3.35-4.35/unit",
+      "Commercial (Urban)": "₹3.35-4.35/unit",
+      "Agriculture (IAS)": "₹0.90-1.30/unit",
+      "Industrial (LTIS)": "₹3.65-3.85/unit"
+    },
+    "Ladakh": {
+      "Domestic (Rural)": "₹2.50-5.50/unit",
+      "Domestic (Urban)": "₹2.50-5.50/unit",
+      "Commercial (Rural)": "₹3.40-5.30/unit",
+      "Commercial (Urban)": "₹3.40-5.30/unit",
+      "Agriculture (IAS)": "₹1.00-1.50/unit",
+      "Industrial (LTIS)": "₹3.90-8.92/unit"
+    },
+    "Lakshadweep": {
+      "Domestic (Rural)": "₹3.00-8.50/unit",
+      "Domestic (Urban)": "₹3.00-8.50/unit",
+      "Commercial (Rural)": "₹5.15-6.85/unit",
+      "Commercial (Urban)": "₹5.15-6.85/unit",
+      "Agriculture (IAS)": "₹2.50-5.50/unit",
+      "Industrial (LTIS)": "₹5.60-6.50/unit"
+    },
+    "Puducherry": {
+      "Domestic (Rural)": "₹1.30-5.10/unit",
+      "Domestic (Urban)": "₹1.30-5.10/unit",
+      "Commercial (Rural)": "₹5.40-6.85/unit",
+      "Commercial (Urban)": "₹5.40-6.85/unit",
+      "Agriculture (IAS)": "₹2.50-5.50/unit",
+      "Industrial (LTIS)": "₹5.30-5.60/unit"
+    },
+    "Jammu & Kashmir": {
+      "Domestic (Rural)": "₹2.95-7.45/unit",
+      "Domestic (Urban)": "₹2.95-7.45/unit",
+      "Commercial (Rural)": "₹6.85-8.15/unit",
+      "Commercial (Urban)": "₹6.85-8.15/unit",
+      "Agriculture (IAS)": "₹3.55-3.85/unit",
+      "Industrial (LTIS)": "₹6.45-7.55/unit"
+    }
+  },
+  "key_definitions": {
+    "Domestic (Rural)": "Electricity rates for residential customers in rural areas with slab-based pricing",
+    "Domestic (Urban)": "Electricity rates for residential customers in urban areas with slab-based pricing",
+    "Commercial (Rural)": "Electricity rates for commercial establishments in rural areas (shops, offices, hotels)",
+    "Commercial (Urban)": "Electricity rates for commercial establishments in urban areas (shops, offices, hotels)",
+    "Agriculture (IAS)": "Irrigation & Agriculture Service - Highly subsidized rates for agricultural pumps and farming activities",
+    "Industrial (LTIS)": "Low Tension Industrial Service - Rates for small and medium industrial units with sanctioned load up to 100 kVA"
+  },
+  "important_notes": [
+    "All rates are in Indian Rupees (₹) per kWh unit (kilowatt-hour)",
+    "Rates shown are approximate ranges based on consumption slabs and may vary by specific distribution company",
+    "Most states follow slab-based tariff structures where rates increase with higher consumption",
+    "Agricultural tariffs are heavily subsidized across most states",
+    "Fixed charges (demand charges) apply separately and are not included in these energy rates",
+    "Some states offer free or heavily subsidized electricity for low-consumption households",
+    "Industrial rates may have time-of-day variations (peak/off-peak) in some states",
+    "For exact rates for your specific location, consult the respective state electricity regulatory commission",
+    "Data sources include state electricity boards and official tariff orders for FY 2025-26"
+  ],
+  "states_with_incomplete_data": [
+    "Manipur - Limited public tariff data available",
+    "Meghalaya - Limited public tariff data available"
+  ]
+}
